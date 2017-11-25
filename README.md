@@ -1,2 +1,2 @@
-# Theisis
-Mtech Theisis Work
+# Thesis
+Mtech Thesis Work
